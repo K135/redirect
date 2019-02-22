@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1550868540256">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="moti.css" crc="58371178" ref="moti"/>
+    <file name="lib.css" crc="58371178" ref="lib"/>
+    <file name="tt.css" crc="58371178" ref="tt"/>
+    <file name="roll.css" crc="58371178" ref="roll"/>
+    <file name="news.css" crc="58371178" ref="news"/>
+    <file name="gallery.css" crc="58371178" ref="gallery"/>
+    <file name="index.css" crc="58371178" ref="index"/>
+    <file name="classar.css" crc="58371178" ref="classar"/>
+    <file name="noti.css" crc="58371178" ref="noti"/>
+    <file name="exam-t.css" crc="58371178" ref="exam-t"/>
+    <file name="worldtr.css" crc="58371178" ref="worldtr"/>
+    <file name="events.css" crc="58371178" ref="events"/>
+    <file name="wrwu.css" crc="58371178" ref="wrwu"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr"/>
+    <file name="museutils.js" crc="340535759" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr"/>
+    <file name="whatinput.js" crc="86476730" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr"/>
+    <file name="require.js" crc="7928878" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr"/>
+  </folder>
+  <file name="index.html" crc="3862468528" seo="true" mt="1550863534178" redirect="false"/>
+  <file name="noti.html" crc="3973984915" seo="true" mt="1550865049961" redirect="false"/>
+  <file name="gallery.html" crc="198135306" seo="true" mt="1550865059194" redirect="false"/>
+  <file name="lib.html" crc="114451040" seo="true" mt="1550865063427" redirect="false"/>
+  <file name="tt.html" crc="84858336" seo="true" mt="1550865071035" redirect="false"/>
+  <file name="classar.html" crc="3979092789" seo="true" mt="1550865080315" redirect="false"/>
+  <file name="exam-t.html" crc="524403218" seo="true" mt="1550865092470" redirect="false"/>
+  <file name="news.html" crc="26459103" seo="true" mt="1550865103164" redirect="false"/>
+  <file name="moti.html" crc="3866300879" seo="true" mt="1550868400648" redirect="false"/>
+  <file name="events.html" crc="4081981103" seo="true" mt="1550868411360" redirect="false"/>
+  <file name="wrwu.html" crc="3887713393" seo="true" mt="1550868421237" redirect="false"/>
+  <file name="roll.html" crc="153838097" seo="true" mt="1550868445832" redirect="false"/>
+  <file name="worldtr.html" crc="246596058" seo="true" mt="1550868476576" redirect="false"/>
+</manifest>
