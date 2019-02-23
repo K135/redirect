@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1550957724965">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1550957887251">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="moti.css" crc="395868688" ref="moti"/>
@@ -15,7 +15,7 @@
     <file name="events.css" crc="395868688" ref="events"/>
     <file name="wrwu.css" crc="395868688" ref="wrwu"/>
     <file name="estore.css" crc="395868688" ref="estore"/>
-    <file name="top.css" crc="79283181" ref="top"/>
+    <file name="top.css" crc="4236746967" ref="top"/>
     <file name="btm.css" crc="62115677" ref="btm"/>
   </folder>
   <folder name="scripts">
@@ -42,6 +42,6 @@
   <file name="roll.html" crc="3816022893" seo="true" mt="1550938301533" redirect="false"/>
   <file name="worldtr.html" crc="451839685" seo="true" mt="1550938301533" redirect="false"/>
   <file name="estore.html" crc="103036873" seo="true" mt="1550938301533" redirect="false"/>
-  <file name="top.html" crc="4246592818" seo="true" mt="1550957574927" redirect="true"/>
+  <file name="top.html" crc="146872516" seo="true" mt="1550957880467" redirect="true"/>
   <file name="btm.html" crc="437808700" seo="true" mt="1550957717393" redirect="true"/>
 </manifest>
