@@ -1,4 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1551152461760">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1551195640474">
+  <folder name="images">
+    <file name="scroll-down-1.gif" crc="3817954482" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="event"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="moti.css" crc="395868688" ref="moti"/>
@@ -17,7 +24,7 @@
     <file name="estore.css" crc="395868688" ref="estore"/>
     <file name="top.css" crc="4236746967" ref="top"/>
     <file name="btm.css" crc="62115677" ref="btm"/>
-    <file name="event.css" crc="429010811" ref="event"/>
+    <file name="event.css" crc="522593429" ref="event"/>
     <file name="nomq_event.css" crc="3798408986" ref="event"/>
   </folder>
   <folder name="scripts">
@@ -28,7 +35,7 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event"/>
     <file name="require.js" crc="7928878" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:estore:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:event"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:estore:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="event"/>
   </folder>
   <file name="index.html" crc="119151599" seo="true" mt="1551138425000" redirect="true"/>
@@ -47,5 +54,5 @@
   <file name="estore.html" crc="103036873" seo="true" mt="1550938301533" redirect="false"/>
   <file name="top.html" crc="146872516" seo="true" mt="1550957880467" redirect="true"/>
   <file name="btm.html" crc="437808700" seo="true" mt="1550957717393" redirect="true"/>
-  <file name="event.html" crc="171167110" seo="true" mt="1551142270215" redirect="true"/>
+  <file name="event.html" crc="2154334" seo="true" mt="1551195594189" redirect="true"/>
 </manifest>
