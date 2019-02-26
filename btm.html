@@ -17,15 +17,23 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>btm</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/btm.css?crc=62115677" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/btm.css?crc=4176897565" id="pagesheet"/>
    </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <a class="nonblock nontext" id="u644" href="mailto:karthikbs9@gmail.com"><!-- simple frame --></a>
-   <a class="nonblock nontext shadow gradient rounded-corners" id="u653" href="https://api.whatsapp.com/send?phone=918892267220&amp;text=HEY%20Karthik!!!%0A*Sup?*" target="_blank"><!-- simple frame --></a>
-   <a class="nonblock nontext" id="u656" href="tel:8892267220"><!-- simple frame --></a>
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="50" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  <div class="clearfix borderbox" id="page"><!-- column -->
+   <div class="browser_width colelem" id="u776-4-bw">
+    <div class="clearfix" id="u776-4"><!-- content -->
+     <p>Did You KNOW !!!</p>
+    </div>
+   </div>
+   <div class="browser_width colelem" id="u779-7-bw">
+    <div class="clearfix" id="u779-7"><!-- content -->
+     <p>Giraffes have the same number of neck bones as humans.</p>
+     <p>Which is seven neck vertebrae. <span id="u779-4"> CLICK Here for more facts</span></p>
+    </div>
+   </div>
+   <div class="verticalspacer" data-offset-top="50" data-content-above-spacer="50" data-content-below-spacer="0" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -42,6 +50,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
