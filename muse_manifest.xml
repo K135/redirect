@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1551223278015">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1552168737305">
   <folder name="images">
     <file name="scroll-down-1.gif" crc="3817954482" seo="true" ref="event">
       <caption webpage="event" alt=""/>
@@ -22,7 +22,7 @@
     <file name="events.css" crc="395868688" ref="events"/>
     <file name="wrwu.css" crc="395868688" ref="wrwu"/>
     <file name="estore.css" crc="395868688" ref="estore"/>
-    <file name="top.css" crc="3825730666" ref="top"/>
+    <file name="top.css" crc="4224532758" ref="top"/>
     <file name="btm.css" crc="4176897565" ref="btm"/>
     <file name="event.css" crc="522593429" ref="event"/>
     <file name="nomq_event.css" crc="3798408986" ref="event"/>
@@ -52,7 +52,7 @@
   <file name="roll.html" crc="3816022893" seo="true" mt="1550938301533" redirect="false"/>
   <file name="worldtr.html" crc="451839685" seo="true" mt="1550938301533" redirect="false"/>
   <file name="estore.html" crc="103036873" seo="true" mt="1550938301533" redirect="false"/>
-  <file name="top.html" crc="3738702" seo="true" mt="1551222430499" redirect="true"/>
+  <file name="top.html" crc="4243626687" seo="true" mt="1552168674902" redirect="true"/>
   <file name="btm.html" crc="4262574550" seo="true" mt="1551223267424" redirect="true"/>
   <file name="event.html" crc="2154334" seo="true" mt="1551195594189" redirect="true"/>
 </manifest>
