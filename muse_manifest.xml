@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1552168737305">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1552169663179">
   <folder name="images">
     <file name="scroll-down-1.gif" crc="3817954482" seo="true" ref="event">
       <caption webpage="event" alt=""/>
@@ -53,6 +53,6 @@
   <file name="worldtr.html" crc="451839685" seo="true" mt="1550938301533" redirect="false"/>
   <file name="estore.html" crc="103036873" seo="true" mt="1550938301533" redirect="false"/>
   <file name="top.html" crc="4243626687" seo="true" mt="1552168674902" redirect="true"/>
-  <file name="btm.html" crc="4262574550" seo="true" mt="1551223267424" redirect="true"/>
+  <file name="btm.html" crc="3976254339" seo="true" mt="1552169656762" redirect="true"/>
   <file name="event.html" crc="2154334" seo="true" mt="1551195594189" redirect="true"/>
 </manifest>
