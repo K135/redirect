@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1552169663179">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1554056128238">
   <folder name="images">
     <file name="scroll-down-1.gif" crc="3817954482" seo="true" ref="event">
       <caption webpage="event" alt=""/>
@@ -14,7 +14,7 @@
     <file name="roll.css" crc="395868688" ref="roll"/>
     <file name="news.css" crc="395868688" ref="news"/>
     <file name="gallery.css" crc="395868688" ref="gallery"/>
-    <file name="index.css" crc="4116765439" ref="index"/>
+    <file name="index.css" crc="3785511119" ref="index"/>
     <file name="classar.css" crc="395868688" ref="classar"/>
     <file name="noti.css" crc="395868688" ref="noti"/>
     <file name="exam-t.css" crc="395868688" ref="exam-t"/>
@@ -22,23 +22,25 @@
     <file name="events.css" crc="395868688" ref="events"/>
     <file name="wrwu.css" crc="395868688" ref="wrwu"/>
     <file name="estore.css" crc="395868688" ref="estore"/>
-    <file name="top.css" crc="4224532758" ref="top"/>
-    <file name="btm.css" crc="4176897565" ref="btm"/>
+    <file name="top.css" crc="3882532044" ref="top"/>
+    <file name="btm.css" crc="4138395494" ref="btm"/>
     <file name="event.css" crc="522593429" ref="event"/>
     <file name="nomq_event.css" crc="3798408986" ref="event"/>
+    <file name="btm-copy.css" crc="214250221" ref="btm-copy"/>
+    <file name="top-copy.css" crc="505448417" ref="top-copy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event"/>
-    <file name="museutils.js" crc="340535759" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event"/>
-    <file name="whatinput.js" crc="86476730" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event"/>
-    <file name="require.js" crc="7928878" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event:top-copy:btm-copy"/>
+    <file name="museutils.js" crc="340535759" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event:top-copy:btm-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event:top-copy:btm-copy"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event:top-copy:btm-copy"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event:top-copy:btm-copy"/>
+    <file name="require.js" crc="7928878" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event:top-copy:btm-copy"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:estore:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:estore:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:top:btm:top-copy:btm-copy"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="event"/>
   </folder>
-  <file name="index.html" crc="119151599" seo="true" mt="1551138425000" redirect="true"/>
+  <file name="index.html" crc="3923403786" seo="true" mt="1554055314403" redirect="true"/>
   <file name="noti.html" crc="2894457" seo="true" mt="1550938301533" redirect="false"/>
   <file name="gallery.html" crc="218669710" seo="true" mt="1550938301533" redirect="false"/>
   <file name="lib.html" crc="327982274" seo="true" mt="1550938301533" redirect="false"/>
@@ -52,7 +54,9 @@
   <file name="roll.html" crc="3816022893" seo="true" mt="1550938301533" redirect="false"/>
   <file name="worldtr.html" crc="451839685" seo="true" mt="1550938301533" redirect="false"/>
   <file name="estore.html" crc="103036873" seo="true" mt="1550938301533" redirect="false"/>
-  <file name="top.html" crc="4243626687" seo="true" mt="1552168674902" redirect="true"/>
-  <file name="btm.html" crc="3976254339" seo="true" mt="1552169656762" redirect="true"/>
+  <file name="top.html" crc="3972248343" seo="true" mt="1554055276177" redirect="true"/>
+  <file name="btm.html" crc="482681689" seo="true" mt="1554055372402" redirect="true"/>
   <file name="event.html" crc="2154334" seo="true" mt="1551195594189" redirect="true"/>
+  <file name="top-copy.html" crc="4079825680" seo="true" mt="1554055304238" redirect="true"/>
+  <file name="btm-copy.html" crc="300980064" seo="true" mt="1554055314702" redirect="true"/>
 </manifest>
