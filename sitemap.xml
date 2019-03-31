@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kkk.com/index.html</loc>
-    <lastmod>2019-03-31</lastmod>
+    <lastmod>2019-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -106,14 +106,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://kkk.com/top-copy.html</loc>
-    <lastmod>2019-03-31</lastmod>
+    <loc>http://kkk.com/top1.html</loc>
+    <lastmod>2019-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kkk.com/btm-copy.html</loc>
-    <lastmod>2019-03-31</lastmod>
+    <loc>http://kkk.com/btm1.html</loc>
+    <lastmod>2019-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
