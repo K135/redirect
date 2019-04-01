@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1554098927271">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kkk.com" resolutions="1x" timestamp="1554099144252">
   <folder name="images">
     <file name="scroll-down-1.gif" crc="3817954482" seo="true" ref="event">
       <caption webpage="event" alt=""/>
@@ -26,9 +26,9 @@
     <file name="btm.css" crc="4138395494" ref="btm"/>
     <file name="event.css" crc="522593429" ref="event"/>
     <file name="nomq_event.css" crc="3798408986" ref="event"/>
-    <file name="top1.css" crc="3907577823" ref="top1"/>
+    <file name="top1.css" crc="413446500" ref="top1"/>
     <file name="btm1.css" crc="4214332009" ref="btm1"/>
-    <file name="nomq_top1.css" crc="4069057300" ref="top1"/>
+    <file name="nomq_top1.css" crc="459176190" ref="top1"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:noti:gallery:lib:tt:classar:exam-t:news:moti:events:wrwu:roll:worldtr:estore:top:btm:event:top1:btm1"/>
@@ -58,6 +58,6 @@
   <file name="top.html" crc="3972248343" seo="true" mt="1554055276177" redirect="true"/>
   <file name="btm.html" crc="482681689" seo="true" mt="1554055372402" redirect="true"/>
   <file name="event.html" crc="2154334" seo="true" mt="1551195594189" redirect="true"/>
-  <file name="top1.html" crc="4195796665" seo="true" mt="1554098906008" redirect="true"/>
+  <file name="top1.html" crc="3827532050" seo="true" mt="1554099138788" redirect="true"/>
   <file name="btm1.html" crc="3904814400" seo="true" mt="1554057656603" redirect="true"/>
 </manifest>
